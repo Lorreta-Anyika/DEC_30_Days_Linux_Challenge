@@ -3,6 +3,7 @@
 ## Objective
 
 What was the goal for today?
+
 Today is for reading around the fundamentals that Videos ordinarily would skip. Then since i am not a total beginner, guage my level of usage against the most popular linux commands as outlined by Colt (on the freecode Youtube video)
 
 
@@ -15,8 +16,6 @@ Out of the basic things written on the GeeksforGeeks blog, the Linux Kernel stru
 - The kernel is one out of the 3 main components of a Linux Distro (the other 2 are: system libraries, and essential software tools).
 
 - This is the visual on my head: I run a python script. Now, it requires some fraction of the CPU, memory, etc. My python commands will not grab the resources it needs directly, it goes to the kernel. The kernel than allocates the required resources needed to run the job. Now, in the case that multiple scripts are running, it is also the kernel that ensures there is no overwrite, that things don't mix up, ie isolation. 
-- 
-- 
 
 ---
 
@@ -45,16 +44,16 @@ Out of the basic things written on the GeeksforGeeks blog, the Linux Kernel stru
 ---
 
 ## Challenges Faced
+#### The challenges are mostly around forgetting syntax. I hope to get a hang of it when i start using the resources.
 
-- 
-- 
-
+- I could not grep even though I ran the grep --help to see that i use the -f flag. 
+- After creating the file with nano and writing into, i found it hard to exit that interface. I used trial and errors. 
+- I needed to create a user and forgot about my sudo adduser username. I ran create 'create user'. i had to google search
 ---
 
 ## Key Takeaways
 
-- 
-- 
+- Constant practice makes perfect!
 
 ---
 
