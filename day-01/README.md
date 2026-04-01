@@ -2,10 +2,9 @@
 
 ## Objective
 
-What was the goal for today?
+#### What was the goal for today?
 
 Today is for reading around the fundamentals that Videos ordinarily would skip. Then since i am not a total beginner, guage my level of usage against the most popular linux commands as outlined by Colt (on the freecode Youtube video)
-
 
 My usage is pretty decent, at least for someone who began her DE journey not quite long ago. I have used and have a fair idea of 18 commands. You'll agree with me that it is not so bad?
 ---
