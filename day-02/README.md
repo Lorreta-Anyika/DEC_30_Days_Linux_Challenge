@@ -26,37 +26,57 @@ To know what exists where i am, I ran the "ls", "ls -a", "ls -lh", and "ls -lh /
 Moving into the /, and running ls, i noticed that the files inside ~ do not appear here. 
 Because the / is like the entire building, it houses files including home, /bin, /etc and so on. 
 
-These make up the linux file system. I will be describing these shortly. 
+These make up the linux file system also called Filesystem Hierarchy Standard (FHS). I will be describing these shortly. 
+
+## Filesystem Hierarchy Standard (FHS)
+1. /home — Users live here
+Right now, I am logged in as a root user. If I create other users (like accounts for different people to use same system), those people and their files will live here. 
+
+2. /root — Admin (I) live here
+This is where i live since i am logged in as the owner of the account. If I "ls", it displays all my files.
+
+3. /etc — Configuration files
+This one houses the settings
+
+4. /var - activity logs
+This houses the logs of my activities.
+
+5. /usr - Houses installed apps
+Where system tools live
+
+6. /tmp - for temporary files
 
 ---
 
 ## What I Built / Practiced
 
-- 
-- 
+- Navigating around directories
+- Listing directories and files in my working path
+- Created Users: entered into each user directory. Created files for them using "touch"
+- moved into each file hierachy in the root. Explored what each contains
 
 ---
 
 ## Challenges Faced
 
-- 
+- I elt that there the files inside each file hierachy are much for one to remember. Like when you are having an issue, where do you look? 
+
+- Going into the logs, i expected to see  the experienms i am doing so far. But it housed other sub-folders.
 - 
 
 ---
 
 ## Key Takeaways
 
-- 
-- 
-
+- It is the right practice to create user for each tooling. Like airbyte-user, airflow-user. 
+- Understanding the file structure helps in situations like debugging where you have to look inside the var/logs
 ---
 
 ## Resources
 
-- 
+- Linux file system[https://github.com/Najeeb-Sulaiman/linux-and-bash-scripting-guide/tree/main/02-linux-commands]
 
 ---
 
 ## Output
 
-(Include links, screenshots, code snippets, or results)
