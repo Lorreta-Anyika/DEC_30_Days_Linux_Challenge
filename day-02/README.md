@@ -33,21 +33,27 @@ These make up the linux file system also called Filesystem Hierarchy Standard (F
 
 ## Filesystem Hierarchy Standard (FHS)
 1. /home — Users live here
+
 Right now, I am logged in as a root user. If I create other users (like accounts for different people to use same system), those people and their files will live here. 
 
 2. /root — Admin (I) live here
+
 This is where i live since i am logged in as the owner of the account. If I "ls", it displays all my files.
 
 3. /etc — Configuration files
+
 This one houses the settings
 
 4. /var - activity logs
+
 This houses the logs of my activities.
 
 5. /usr - Houses installed apps
+
 Where system tools live
 
 6. /tmp - for temporary files
+
 
 ---
 
