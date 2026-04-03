@@ -1,8 +1,11 @@
-# Day 03 - [Topic]
+# Day 03 - File Commands
 
 ## Objective
 
 What was the goal for today?
+- manipulate files and directories
+- File Content Search and Text Processing
+- Sorting, Counting, and Filtering Data
 
 ---
 
