@@ -39,8 +39,6 @@ this means
 ## What I Built / Practiced
 
 - I created directories and files. Attempted moving, copying and removing them one after the other
-- 
-
 ---
 
 ## Challenges Faced
@@ -53,16 +51,22 @@ this means
 ## Key Takeaways
 
 - 
-- 
 
 ---
 
 ## Resources
 
-- 
+- Linux file system[https://github.com/Najeeb-Sulaiman/linux-and-bash-scripting-guide/tree/main/02-linux-commands]
+
 
 ---
 
 ## Output
 
-(Include links, screenshots, code snippets, or results)
+![1](image.png)
+
+![2](image-1.png)
+
+![3](image-2.png)
+
+![4](image-3.png)
