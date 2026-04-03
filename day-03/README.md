@@ -50,7 +50,7 @@ this means
 
 ## Key Takeaways
 
-- 
+- Linux is about navigating, controlling, and understanding how data and systems are organized.
 
 ---
 
