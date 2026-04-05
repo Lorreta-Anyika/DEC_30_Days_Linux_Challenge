@@ -24,7 +24,8 @@ Using the ">" writes into the file and overwrites what was there. However, ">>" 
 
 
 3. Pipes (|): Instead of saving to a file, I can send output directly to another command. 
-syntax: command1 | command2
+syntax: command1 | command2.
+
 This implies the output of command1 is sent as input for command2
 
 4. < : to send the content of a file as input to a command
@@ -33,9 +34,10 @@ This implies the output of command1 is sent as input for command2
 
 ## What I Built / Practiced
 
-- 
-- 
-
+- >
+- >>
+- <
+- |
 ---
 
 ## Challenges Faced
