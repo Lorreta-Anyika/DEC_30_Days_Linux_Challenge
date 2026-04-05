@@ -1,10 +1,11 @@
-# Day 05 - Redirection and Pipes
+# Day 05 - Redirection and Pipes || Chaining and Combining Commands
 
 ## Objective
 
 What was the goal for today?
 
-Understand command in Linux used in three data streams
+- Understand command in Linux used in three data streams: stdin, stdout, stderr
+- Learn to chain commands for sequential, individual order
 ---
 
 ## What I Learned
