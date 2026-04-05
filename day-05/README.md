@@ -64,8 +64,20 @@ Opposite of the &&. It will run when the first command fails.
 
 ## Key Takeaways
 
-- 
-- 
+- Every command = input → process → output 
+- 3 streams:
+1. stdin = input
+2. stdout = normal output
+3. stderr = errors
+- ">" → send output to file (overwrite)
+- ">>" → add output to file
+- < → take input from file
+- | (pipe) → send output of one command into another
+- Think in pipelines:
+- read → filter → transform → count/save
+- && → run next command only if previous succeeds
+- || → run next command only if previous fails
+- ; → run commands regardless of success/failure
 
 ---
 
