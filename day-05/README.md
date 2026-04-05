@@ -23,7 +23,9 @@ Now instead of displaying this output on my screen, I can **redirect** it to a f
 Using the ">" writes into the file and overwrites what was there. However, ">>" adds to file but don’t replace.
 
 
-3. stderr: 
+3. Pipes (|): Instead of saving to a file, I can send output directly to another command. 
+syntax: command1 | command2
+This implies the output of command1 is sent as input for command2
 
 ---
 
