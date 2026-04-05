@@ -31,6 +31,13 @@ This implies the output of command1 is sent as input for command2
 
 4. < : to send the content of a file as input to a command
 
+5. - &&: “ONLY if success”
+
+Assuming you have multiple commands, the second one runs if and if the first was successful
+
+eg. mkdir logs && echo "you are doing well"
+
+I noticed the first it ran successfully and print the expected output. Howvever, the second time, it threw an error beacuse logs exists and so the echo part did not run.
 ---
 
 ## What I Built / Practiced
@@ -39,6 +46,8 @@ This implies the output of command1 is sent as input for command2
 - ">>"
 - <
 - |
+- &&: 
+
 ---
 
 ## Challenges Faced
