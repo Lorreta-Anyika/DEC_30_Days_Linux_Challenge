@@ -38,6 +38,11 @@ Assuming you have multiple commands, the second one runs if and if the first was
 eg. mkdir logs && echo "you are doing well"
 
 I noticed the first it ran successfully and print the expected output. Howvever, the second time, it threw an error beacuse logs exists and so the echo part did not run.
+
+6. ||: ONLY if failure
+Opposite of the &&. It will run when the first command fails. 
+
+7. ; : Run everything no matter what
 ---
 
 ## What I Built / Practiced
@@ -47,13 +52,13 @@ I noticed the first it ran successfully and print the expected output. Howvever,
 - <
 - |
 - &&: 
-
+- || 
+- ; 
 ---
 
 ## Challenges Faced
 
-- 
-- 
+- I feel i am not pushing hard enough. Since i am not encountering any challenges so far. 
 
 ---
 
@@ -73,3 +78,5 @@ I noticed the first it ran successfully and print the expected output. Howvever,
 ## Output
 
 ![1](image.png)
+
+![2](image-1.png)
