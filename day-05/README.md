@@ -34,8 +34,8 @@ This implies the output of command1 is sent as input for command2
 
 ## What I Built / Practiced
 
-- >
-- >>
+- ">"
+- ">>"
 - <
 - |
 ---
