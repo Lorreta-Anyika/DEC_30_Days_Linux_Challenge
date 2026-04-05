@@ -1,4 +1,4 @@
-# Day 05 - [Topic]
+# Day 05 - Redirection and Pipes
 
 ## Objective
 
