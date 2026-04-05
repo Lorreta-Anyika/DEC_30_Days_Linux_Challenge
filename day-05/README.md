@@ -57,7 +57,7 @@ This implies the output of command1 is sent as input for command2
 
 ## Resources
 
-- 
+- Linux file system[https://github.com/Najeeb-Sulaiman/linux-and-bash-scripting-guide/tree/main/02-linux-commands]
 
 ---
 
