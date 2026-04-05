@@ -27,6 +27,8 @@ Using the ">" writes into the file and overwrites what was there. However, ">>" 
 syntax: command1 | command2
 This implies the output of command1 is sent as input for command2
 
+4. < : to send the content of a file as input to a command
+
 ---
 
 ## What I Built / Practiced
@@ -58,4 +60,4 @@ This implies the output of command1 is sent as input for command2
 
 ## Output
 
-(Include links, screenshots, code snippets, or results)
+![1](image.png)
