@@ -37,7 +37,8 @@ What was the goal for today?
 
 ## Resources
 
-- 
+- - Linux file system[https://github.com/Najeeb-Sulaiman/linux-and-bash-scripting-guide/tree/main/02-linux-commands]
+ 
 
 ---
 
