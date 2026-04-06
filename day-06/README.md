@@ -67,4 +67,4 @@ What was the goal for today?
 
 ## Output
 
-(Include links, screenshots, code snippets, or results)
+![Output](image.png)
