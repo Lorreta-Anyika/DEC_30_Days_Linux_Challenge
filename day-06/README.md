@@ -23,14 +23,13 @@ What was the goal for today?
 
 - Exporting them just like the above makes the content available temporarily. When I close Linux, it disappers. 
 
-- To keep it permanent, I register it in the starup settings file "~/.bashrc". It lives in the home directory. Notice the '~'. Hiwever, it is a hidden file; observe the '.' that starts it. So display it, O use the 'ls -a'
+- To keep it permanent, I register it in the starup settings file "~/.bashrc". It lives in the home directory. Notice the '~'. However, it is a hidden file; observe the '.' that starts it. So display it, I use the 'ls -a'
 
 ---
 
 ## Challenges Faced
 
-- 
-- 
+- None 
 
 ---
 
