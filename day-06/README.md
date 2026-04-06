@@ -1,14 +1,15 @@
-# Day 06 - [Topic]
+# Day 06 - Environment Variables
 
 ## Objective
 
 What was the goal for today?
+- Underdtand how systems remember settings.
 
 ---
 
 ## What I Learned
 
-- 
+- variables like in python store values. In this case, envirinment variables store values.
 - 
 - 
 
@@ -16,8 +17,9 @@ What was the goal for today?
 
 ## What I Built / Practiced
 
-- 
-- 
+- export NAME=Lorreta:::: Stores Lorreta in the variable called NAME
+- echo $NAME:::: displays what is inside this variable
+- These help for reusability of long values..You don't  need to retype them. 
 
 ---
 
