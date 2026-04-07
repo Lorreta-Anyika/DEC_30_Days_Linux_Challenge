@@ -9,9 +9,7 @@ What was the goal for today?
 
 ## What I Learned
 
-- 
-- 
-- 
+- Relearned the concepts I have covered so far
 
 ---
 
