@@ -34,7 +34,7 @@ What was the goal for today?
 
 - Return to your home directory: cd ~
 
-4. Navigate to the root directory / and list its contents.
+4. Navigate to the root directory / and list its contents: cd /  and then ls -1
 
 5. Use TAB autocompletion to type a directory path faster.
 
@@ -68,3 +68,5 @@ What was the goal for today?
 ![3](image-2.png)
 
 ![3a](image-3.png)
+
+![4](image-4.png)
