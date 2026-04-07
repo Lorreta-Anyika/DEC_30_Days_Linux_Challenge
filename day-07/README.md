@@ -28,11 +28,15 @@ What was the goal for today?
 
 3. Navigate to /etc (or any system directory), then:
 
-- Move up one level
+- Move up one level: cd ..
 
-Move up two levels
+- Move up two levels: cd ../..
 
-Return to your home directory
+- Return to your home directory: cd ~
+
+4. Navigate to the root directory / and list its contents.
+
+5. Use TAB autocompletion to type a directory path faster.
 
 ---
 
@@ -60,3 +64,7 @@ Return to your home directory
 ![1](image.png)
 
 ![2](image-1.png)
+
+![3](image-2.png)
+
+![3a](image-3.png)
