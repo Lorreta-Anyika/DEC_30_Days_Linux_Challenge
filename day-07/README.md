@@ -38,20 +38,29 @@ What was the goal for today?
 
 5. Use TAB autocompletion to type a directory path faster.
 
+## Creating, Viewing, and Managing Files
+1. Create a folder called practice_files and navigate into it: mkdir practice_files
+
+2. Create three files at once: touch file1.txt file2.txt file3.txt
+
+3. Add some text to each files: nano ...
+
+4. Combine the contents of all three files into one new file called all.txt:  cat file1.txt file2.txt file3.txt > all.txt
+
+5. Display the content of the new file: cat all.txt
+
 ---
 
 ## Challenges Faced
 
-- 
+- I struggled to remember how to combine all the files into the all.txt
 - 
 
 ---
 
 ## Key Takeaways
 
-- 
-- 
-
+- Practice my friend makes perfect!
 ---
 
 ## Resources
@@ -70,3 +79,5 @@ What was the goal for today?
 ![3a](image-3.png)
 
 ![4](image-4.png)
+
+![5](image-5.png)
