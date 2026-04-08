@@ -10,21 +10,22 @@ What was the goal for today?
 ## What I Learned
 
 ### Copying, Moving, and Deleting
-- Create a new directory named backup.
 
-- Copy one of your text files into the backup folder.
+- Create a new directory named backup: mkdir backup
 
-- Copy the entire practice_files directory into a new folder called archive recursively.
+- Copy one of your text files into the backup folder: cp backup.txt backup
 
-- Rename a file inside archive
+- Copy the entire practice_files directory into a new folder called archive recursively::::mkdir archive. :::cp -r practice_files archive
 
-- Move a file from backup back to practice_files
+- Rename a file inside archive mv archive/practice/file1.txt archive/practice/new.txt
+
+- Move a file from backup back to practice_files::::mv backup/backup.txt practice_files
 
 - Create a new folder temp_data and an empty file inside it.
 
 - Try deleting the file.
 
-- Try deleting the entire temp_data folder
+- Try deleting the entire temp_data folder:::: rmdir
 
 - In one command:
 
@@ -49,17 +50,18 @@ What was the goal for today?
 
 ## Key Takeaways
 
-- 
+- cp -r copies the folder and its content into specified folder
+- mv can also be used to rename
 - 
 
 ---
 
 ## Resources
 
-- 
+- Linux file system[https://github.com/Najeeb-Sulaiman/linux-and-bash-scripting-guide/tree/main/02-linux-commands]
 
 ---
 
 ## Output
 
-(Include links, screenshots, code snippets, or results)
+![1](image.png)
