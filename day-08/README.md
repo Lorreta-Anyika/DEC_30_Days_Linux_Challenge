@@ -36,14 +36,13 @@ What was the goal for today?
 
 ## What I Built / Practiced
 
-- 
-- 
+- Copying, Moving, and Deleting
 
 ---
 
 ## Challenges Faced
 
-- 
+- Creating the files insdie a dirctory with ine single command
 - 
 
 ---
@@ -65,3 +64,5 @@ What was the goal for today?
 ## Output
 
 ![1](image.png)
+
+![2](image-1.png)
