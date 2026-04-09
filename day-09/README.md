@@ -34,8 +34,9 @@ What was the goal for today?
 
 ## Key Takeaways
 
-- 
-- 
+- Everything in Linux is text: you manipulate files using simple commands
+- Commands can be combined (pipelining): small tools, powerful results
+- Case sensitivity matters: use -i when needed
 
 ---
 
