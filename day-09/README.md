@@ -27,8 +27,11 @@ What was the goal for today?
 
 ## Challenges Faced
 
-- 
-- 
+- Forgetting Command Order: Doing things in the wrong sequence gives wrong results
+- Overwriting Files Accidentally: Using > instead of >> can erase content
+- Case Sensitivity Confusion: 
+1. Kate ≠ kate in Linux
+2. You might miss results without -i
 
 ---
 
