@@ -9,7 +9,7 @@ What was the goal for today?
 ## What I Learned
 
 ### Searching, Sorting, and Filtering
-- Create a file called names.txt with several names (one per line).
+- Create a file called names.txt with several names (one per line): nano names.txt
 
 - Display all names that contain the letter a (case-insensitive).
 
@@ -18,15 +18,10 @@ What was the goal for today?
 - Sort the names alphabetically and remove duplicates.
 
 - Show only the first 3 unique names.
-- 
-- 
 
 ---
 
 ## What I Built / Practiced
-
-- 
-- 
 
 ---
 
@@ -46,10 +41,10 @@ What was the goal for today?
 
 ## Resources
 
-- 
+- Linux file system[https://github.com/Najeeb-Sulaiman/linux-and-bash-scripting-guide/tree/main/02-linux-commands]
 
 ---
 
 ## Output
 
-(Include links, screenshots, code snippets, or results)
+![1](image-1.png)
