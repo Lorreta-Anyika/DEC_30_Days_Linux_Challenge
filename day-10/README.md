@@ -32,6 +32,8 @@ What was the goal for today?
 1. su - analyst: switches to analyst and into the home directory of analyst
 2. su analyst: switch to analyst but stay in same environment as root. 
 
+As a user, I have restrictions. I cannot cd into the root. I cannot download unless given the sudo permission
+
 ---
 
 ## Challenges Faced
