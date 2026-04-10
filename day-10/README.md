@@ -42,10 +42,6 @@ As a user, I have restrictions. I cannot cd into the root. I cannot download unl
 ---
 
 ## Key Takeaways
-
-- 
-- 
-
 ---
 
 ## Resources
