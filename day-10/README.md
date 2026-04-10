@@ -39,8 +39,6 @@ As a user, I have restrictions. I cannot cd into the root. I cannot download unl
 ## Challenges Faced
 
 - I had a lot of reading around to understand the outputs of commands around users and groups
-- 
-
 ---
 
 ## Key Takeaways
@@ -52,7 +50,7 @@ As a user, I have restrictions. I cannot cd into the root. I cannot download unl
 
 ## Resources
 
-- 
+-  Linux file system[https://github.com/Najeeb-Sulaiman/linux-and-bash-scripting-guide/tree/main/02-linux-commands]
 
 ---
 
