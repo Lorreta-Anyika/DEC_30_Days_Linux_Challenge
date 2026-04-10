@@ -38,7 +38,7 @@ As a user, I have restrictions. I cannot cd into the root. I cannot download unl
 
 ## Challenges Faced
 
-- 
+- I had a lot of reading around to understand the outputs of commands around users and groups
 - 
 
 ---
@@ -58,4 +58,4 @@ As a user, I have restrictions. I cannot cd into the root. I cannot download unl
 
 ## Output
 
-(Include links, screenshots, code snippets, or results)
+![1](image.png)
