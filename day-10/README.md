@@ -1,8 +1,10 @@
-# Day 10 - [Topic]
+# Day 10 - Users and Groups
 
 ## Objective
 
 What was the goal for today?
+
+- understand users, what they can do or not do. And Groups
 
 ---
 
