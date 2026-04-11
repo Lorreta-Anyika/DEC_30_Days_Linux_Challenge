@@ -52,10 +52,10 @@ How do everything concerning this user completely....ie user a d home directory.
 
 ## Resources
 
-- 
+-  Linux file system[https://github.com/Najeeb-Sulaiman/linux-and-bash-scripting-guide/tree/main/02-linux-commands]
 
 ---
 
 ## Output
 
-(Include links, screenshots, code snippets, or results)
+got logged out of the server before i could screenshot.
