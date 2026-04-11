@@ -19,15 +19,26 @@ Go deeper into user, groups and permissions
 
 ## What I Built / Practiced
 
-- 
-- 
-
+- adduser: user + home directory. Interactively
+- useradd: adds user
+- useradd -m username: user + home directory
+- userdel: deletes user but directory and mail spool remians
+- userdel -r username: deletes everything completely
 ---
 
 ## Challenges Faced
 
 - I created a user but struggled to locate the home where users are stored. I used the cat/etc/passwrd. It listed all users. But that was not my intent. I found out that i am in the homr directory of the superuser. Instead of the root directory for the server. I had to cd into /. Then ls -a.
-- 
+- I found it hard to solve this scenario: 
+
+1. You created a user using useradd but with no home directory. To confirm this user was created, I either list everything using  cat/etc/passwd or just grep the user.
+
+Question: how do I delete this user. 
+When I run userdel or userdel -r username, it says does not exist. Probably because the home directory is not existing. 
+
+2. I created a user using the adduser or useradd -m username, it creates the user and its  directory in /home. 
+Now, I deleted the user. It disappears from the /etc path. But the home directory remains. 
+How do everything concerning this user completely....ie user a d home directory.
 
 ---
 
