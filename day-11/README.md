@@ -3,7 +3,8 @@
 ## Objective
 
 What was the goal for today?
-Go deeper into user, groups and permissions
+
+- Go deeper into user, groups and permissions
 
 ---
 
