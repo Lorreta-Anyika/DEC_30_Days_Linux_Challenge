@@ -44,9 +44,10 @@ How do everything concerning this user completely....ie user a d home directory.
 
 ## Key Takeaways
 
-- 
-- 
-
+- Users are stored in /etc/passwd, not /home
+- /home only contains folders, not actual users
+- A user can exist without a home directory
+- A folder can exist without a user
 ---
 
 ## Resources
