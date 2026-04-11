@@ -1,4 +1,4 @@
-# Day 11 - sers and Groups contd.
+# Day 11 - Users and Groups contd.
 
 ## Objective
 
