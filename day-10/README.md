@@ -53,3 +53,5 @@ As a user, I have restrictions. I cannot cd into the root. I cannot download unl
 ## Output
 
 ![1](image.png)
+
+![2](image-1.png)
