@@ -1,8 +1,9 @@
-# Day 11 - [Topic]
+# Day 11 - sers and Groups contd.
 
 ## Objective
 
 What was the goal for today?
+Go deeper into user, groups and permissions
 
 ---
 
