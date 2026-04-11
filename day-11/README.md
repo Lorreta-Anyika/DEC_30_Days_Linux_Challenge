@@ -24,7 +24,7 @@ Go deeper into user, groups and permissions
 
 ## Challenges Faced
 
-- 
+- I created a user but struggled to locate the home where users are stored. I used the cat/etc/passwrd. It listed all users. But that was not my intent. I found out that i am in the homr directory of the superuser. Instead of the root directory for the server. I had to cd into /. Then ls -a.
 - 
 
 ---
