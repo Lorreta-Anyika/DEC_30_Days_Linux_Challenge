@@ -1,8 +1,9 @@
-# Day 12 - [Topic]
+# Day 12 - Users and Groups contd.
 
 ## Objective
 
 What was the goal for today?
+- solve the challenges I faced yesterday. Try out the suggestions from the group
 
 ---
 
