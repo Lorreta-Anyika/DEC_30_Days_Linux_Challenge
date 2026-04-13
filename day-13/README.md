@@ -19,11 +19,11 @@ What was the goal for today?
 2. w - write
 3. x - execute
 
-By defualt, the superuser has rwx (full access) permissions.
+By defualt, the superuser has rwx (full access) permissions. I did experiements to understand when the permissiosn are replaced with '-' what they mean?
 
 ### How to change permissions
 
-We chnage permissions using the chmod command. 
+- We chnage permissions using the chmod command. 
 ---
 
 ## What I Built / Practiced
