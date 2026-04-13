@@ -19,13 +19,20 @@ What was the goal for today?
 2. w - write
 3. x - execute
 
-By defualt, the superuser has rwx permissions.
+By defualt, the superuser has rwx (full access) permissions.
 
+### How to change permissions
+
+We chnage permissions using the chmod command. 
 ---
 
 ## What I Built / Practiced
 
 - ls -l: this list the permissions on the directories and files. For instance: ls -l
+- how to read the permissions for different files and directories
+- gaim mastery of idemtifying the permissions granted to each file/folder
+
+
 total 8
 drwxr-xr-x 3 root root 4096 Apr  1 07:02 playground: the playground is a directory (d), the owner has full access (rwx), the group has read and execute (r-x), and others also have read and execute (r-x).
 
@@ -36,24 +43,25 @@ drwx------ 3 root root 4096 Apr 12 22:51 snap: Only the owner has full access an
 
 ## Challenges Faced
 
-- 
-- 
+- Understand what the "total" means? and size?
 
 ---
 
 ## Key Takeaways
 
-- 
+- directories are defined with the letter d and files come with hyphen.
 - 
 
 ---
 
 ## Resources
 
-- 
+ Linux file system[https://github.com/Najeeb-Sulaiman/linux-and-bash-scripting-guide/tree/main/02-linux-commands]
+
+---
 
 ---
 
 ## Output
 
-(Include links, screenshots, code snippets, or results)
+![1](image.png)
