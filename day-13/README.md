@@ -9,9 +9,17 @@ What was the goal for today?
 
 ## What I Learned
 
-- 
-- 
-- 
+- Every file has:
+
+1. Who can access it → (user, group, others)
+2. What they can do → (read, write, execute)
+- I treaded the first one the previous days. So you can refer to them
+- what people can do?
+1. r - read
+2. w - write
+3. x - execute
+
+By defualt, the superuser has rwx permissions.
 
 ---
 
