@@ -1,9 +1,10 @@
-# Day 13 - [Topic]
+# Day 13 - LINUX FILE PERMISSIONS
 
 ## Objective
 
 What was the goal for today?
 
+- Understand what File Permissions Mean
 ---
 
 ## What I Learned
