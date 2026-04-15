@@ -13,13 +13,15 @@ What was the goal for today?
 - Foreground processes run directly in the terminal and block further input, while background processes run without interrupting the terminal.
 - Commands like ps, top, htop, and pidof help monitor system processes and performance.
 - Process control commands like kill, pkill, fg, bg, and jobs are essential for managing running processes.
-- 
-- 
 
 ---
 
 ## What I Built / Practiced
 
+- Ran ps to list all process: got the output that shows PID, the terminal, time and CPU.:   
+ PID TTY          TIME CMD
+2944883 pts/0    00:00:00 bash
+2945019 pts/0    00:00:00 ps
 - Ran scripts in both foreground and background using & eg. python script.py &
 - Used process monitoring commands: ps aux | grep python
 top
@@ -30,7 +32,7 @@ top
 ---
 
 ## Challenges Faced
-
+- I was stuck inside the ps aux less. So i pressed q to quit
 - Initially confusing the difference between foreground and background processes.
 - Understanding when to use kill vs kill -9 and the risks of forcefully terminating processes.
 - Keeping track of PIDs and identifying the correct process among many running ones.
@@ -54,4 +56,12 @@ top
 
 ## Output
 
-(Include links, screenshots, code snippets, or results)
+![1](image.png)
+
+![2](image-1.png)
+
+![3](image-2.png)
+
+![4](image-3.png)
+
+![5](image-4.png)
