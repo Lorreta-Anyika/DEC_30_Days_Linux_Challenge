@@ -9,7 +9,7 @@ What was the goal for today?
 
 ## What I Learned
 
-- Create & Observe: 
+- Create & Observe processes. There are long processes and fast ones. Fast ones are like ls, ps, cd. Long ones are like sleep.
 - 
 - 
 
@@ -46,3 +46,5 @@ What was the goal for today?
 ![1](image-1.png)
 
 ![2](image.png)
+
+![3](image-2.png)
