@@ -25,7 +25,7 @@ What was the goal for today?
 ## Challenges Faced
 
 - Lack of electricity to actually do much.
-- 
+- I ran the ps sleep command to list all sleep processes but encountered an error saying the PID must accompany. But in cases that i dont know the PID, then i ran ps | grep sleep. So now, it catches all processes involving sleep
 
 ---
 
