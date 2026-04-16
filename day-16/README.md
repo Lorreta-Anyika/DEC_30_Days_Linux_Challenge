@@ -10,7 +10,7 @@ What was the goal for today?
 ## What I Learned
 
 - Create & Observe processes. There are long processes and fast ones. Fast ones are like ls, ps, cd. Long ones are like sleep.
-- 
+- Background Control: fg vs bg. When to use which? any advantage over each other?
 - 
 
 ---
