@@ -1,4 +1,4 @@
-# Day 16 - [Topic]
+# Day 16 - Practice exercises on Process and Management
 
 ## Objective
 
@@ -23,7 +23,7 @@ What was the goal for today?
 
 ## Challenges Faced
 
-- 
+- Lack of electricity to actually do much.
 - 
 
 ---
