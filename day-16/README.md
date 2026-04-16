@@ -3,6 +3,7 @@
 ## Objective
 
 What was the goal for today?
+- Attempt as many hands-on as possible
 
 ---
 
