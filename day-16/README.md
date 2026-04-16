@@ -18,7 +18,7 @@ What was the goal for today?
 ## What I Built / Practiced
 
 - I largely used sleep to create processes because as of now it is safe and practical. Predictable is the right word. So it just stays alive for some specified seconds. Eg. sleep 60 starts a process, stays for 60 seconds and times out. Also it is a longer process than say ls which runs quickly and stops without allowing me to observe the process ad learn.
-- 
+- I used "jobs" command to ask What processes did I start in this terminal that are still running or paused? At first I though it counted the processes i have run or stopped. But no, it shows the just suspended or running one. I had to use history to view others.
 
 ---
 
