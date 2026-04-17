@@ -50,4 +50,6 @@ What was the goal for today?
 
 ## Output
 
-(Include links, screenshots, code snippets, or results)
+![1](image.png)
+
+![2](image-1.png)
