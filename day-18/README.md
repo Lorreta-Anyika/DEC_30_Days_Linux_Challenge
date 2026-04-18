@@ -12,7 +12,7 @@
 - Bash scripting is a powerful tool used to automate repetitive tasks in a Linux environment  
 - A Bash script is a text file containing a sequence of commands that execute automatically  
 - Bash can be used alongside tools like Python, SQL, and Spark to manage data workflows  
-- The structure of a Bash script includes a *shebang line* and executable commands  
+- The structure of a Bash script includes a *shebang line* (`#!/bin/bash`) and executable commands  
 - The `#!/bin/bash` line tells the system which interpreter to use  
 - Commands like `echo`, `date`, and `hostname` can be used inside scripts  
 - Bash shares similarities with programming languages like Python, making it easier to learn  
@@ -33,7 +33,7 @@
 - Understanding why the script would not run without changing file permissions  
 - Getting familiar with terminal-based file creation and editing  
 - Remembering the correct structure of a Bash script  
-
+- At first, i wondered why dot (.) used for hidden files 
 ---
 
 ## Key Takeaways  
@@ -46,13 +46,9 @@
 ---
 
 ## Resources  
- 
+ -  Linux file system[https://github.com/Najeeb-Sulaiman/linux-and-bash-scripting-guide/tree/main/02-linux-commands]
 
 ---
 
 ## Output  
-
-```bash
-#!/bin/bash
-echo "Hello Data Engineers!"
-echo "This is your first Bash script running on $(hostname)"
+![1](image.png)
