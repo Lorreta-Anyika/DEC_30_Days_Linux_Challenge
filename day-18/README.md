@@ -1,9 +1,9 @@
-# Day 18 - [Topic]
+# Day 18 - Introduction to Bash Scripting
 
 ## Objective
 
 What was the goal for today?
-
+- Read around bash scripting 
 ---
 
 ## What I Learned
