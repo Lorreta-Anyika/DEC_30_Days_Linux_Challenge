@@ -60,7 +60,7 @@ Understand how to use variables, accept user input, work with command substituti
 ```bash
 #!/bin/bash
 
-name="Najeeb"
+name="Lorreta"
 role="Data Engineer"
 
 echo "Hello, $name! Your role is $role."
@@ -68,16 +68,4 @@ echo "Hello, $name! Your role is $role."
 current_date=$(date)
 echo "The current date and time is: $current_date"
 
-echo "Enter your project name:"
-read project
-
-echo "Creating project folder: $project"
-mkdir -p "/projects/$project"
-
-echo "You are logged in as $USER on $HOSTNAME"
-
-export DATA_PATH="/data/raw"
-echo $DATA_PATH
-
-readonly LOG_DIR="/var/logs/data"
-echo "Log directory is set to $LOG_DIR"
+![1](image.png)
